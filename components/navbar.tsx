@@ -44,11 +44,11 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="p-4 pl-10">
+    <nav className=" bg-blue-200 p-4 pl-10">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-black text-lg font-bold">
           <a href='/'>
-          MyApp
+          Files
           </a>
         </div>
         <div>
